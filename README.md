@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daisy-yanyu
+## 👋 Hi, I’m @daisy-yanyu
 - 👀 I’m interested in software
 
 <!---
